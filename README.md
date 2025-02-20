@@ -1,5 +1,5 @@
-# Git-course-
-training about dealing with github 
+# Git
+training
 
 ## projects notes
 
